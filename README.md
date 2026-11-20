@@ -2,7 +2,7 @@
 
 > **Una app móvil para registrar y gestionar capturas de pesca, generar estadísticas, añadir y competir contra amigos.**
 
-PescaLog es un proyecto personal en desarrollo que explora cómo llevar la experiencia de pesca al móvil: reunir y gestionar la información de cada jornada, generar estadísticas, competir contra amigos y construir una base preparada para crecer.
+PescaLog es un proyecto personal en desarrollo que explora cómo llevar la experiencia de pesca al móvil: reunir y gestionar la información de cada jornada, generar estadísticas, competir contra amigos y mucho más.
 
 Este repositorio presenta el proyecto desde el punto de vista del producto. Aquí encontrarás su propósito, la arquitectura prevista, las tecnologías y el estado actual, sin código de la aplicación.
 
