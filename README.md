@@ -56,19 +56,25 @@ El detalle y los siguientes pasos están en [Estado y hoja de ruta](docs/estado-
 
 1. Pantalla de inicio (a) y gestión de capturas (b).
 
-<img width="738" height="1600" alt="fotoapp1" src="https://github.com/user-attachments/assets/6460324c-a3df-446f-8087-f2a64dfcd453" />
 
-<img width="738" height="1600" alt="fotoapp5" src="https://github.com/user-attachments/assets/6663e5bb-26ac-4c9f-8cab-91625835f8b0" />
+<img width="240" height="520" alt="fotoapp1" src="https://github.com/user-attachments/assets/6460324c-a3df-446f-8087-f2a64dfcd453" />
+
+<img width="240" height="520" alt="fotoapp5" src="https://github.com/user-attachments/assets/6663e5bb-26ac-4c9f-8cab-91625835f8b0" />
+
 
 2. Pantalla de amigos (ranking, solicitudes, amistades)
 
-<img width="738" height="1600" alt="fotoapp2" src="https://github.com/user-attachments/assets/765a2741-ca3a-459a-835a-c4720a2558d0" />
-<img width="738" height="1600" alt="fotoapp3" src="https://github.com/user-attachments/assets/56a2ba42-0f28-483b-9c9e-c1c73a376a66" />
+
+<img width="240" height="520" alt="fotoapp2" src="https://github.com/user-attachments/assets/765a2741-ca3a-459a-835a-c4720a2558d0" />
+<img width="240" height="520" alt="fotoapp3" src="https://github.com/user-attachments/assets/56a2ba42-0f28-483b-9c9e-c1c73a376a66" />
+
 
 3. Pantalla de estadísticas
 
-<img width="738" height="1600" alt="fotoapp4" src="https://github.com/user-attachments/assets/e57f053d-ae8b-4dfa-9287-a27dc171b991" />
-<img width="738" height="1600" alt="fotoapp5" src="https://github.com/user-attachments/assets/292f89ee-7b9e-4d0e-8dc1-60eb0e6acfdf" />
+
+<img width="240" height="520" alt="fotoapp4" src="https://github.com/user-attachments/assets/e57f053d-ae8b-4dfa-9287-a27dc171b991" />
+<img width="240" height="520" alt="fotoapp5" src="https://github.com/user-attachments/assets/292f89ee-7b9e-4d0e-8dc1-60eb0e6acfdf" />
+
 
 ## Enlaces
 
