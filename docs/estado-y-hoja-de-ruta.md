@@ -2,18 +2,18 @@
 
 ## Estado del proyecto
 
-**Fase: desarrollo inicial; backend funcional en local y frontend en configuración e integración inicial.**
+**Fase: desarrollo inicial; backend funcional en local y frontend en configuración e integración inicial. App completamente funcional en emulador**
 
-PescaLog se está desarrollando como una aplicación móvil multiplataforma con React Native y Expo, un backend Java con Spring Boot y PostgreSQL.
+PescaLog se está desarrollando como una aplicación móvil multiplataforma con un backend Java con Spring Boot y PostgreSQL, y front con React Native y Expo.
 
 ### Backend
 
 - API REST desarrollada con Java y Spring Boot.
 - PostgreSQL configurado y utilizado en entorno local.
-- Registro de usuarios probado mediante Postman.
-- Inicio de sesión probado mediante Postman; devuelve un JWT.
-- Spring Security configurado para proteger los endpoints mediante JWT.
-- Endpoints para consultar y gestionar capturas desarrollados y probados desde Postman.
+- Registro de usuarios probado mediante Postman y en UI en emulador.
+- Inicio de sesión probado mediante Postman y en emulador; devuelve un JWT.
+- Spring Security configurado para proteger los endpoints mediante JWT. Contraseñas encriptadas con ByCript para ser guardadas en BBDD.
+- Endpoints para consultar y gestionar capturas, amigos y rankings desarrollados y probados desde Postman y emulador.
 - Roles `USER` y `ADMIN` incorporados al modelo y al JWT. La autorización completa de ADMIN sobre los recursos de otros usuarios sigue pendiente de terminar y probar.
 
 ### Frontend
@@ -26,6 +26,8 @@ PescaLog se está desarrollando como una aplicación móvil multiplataforma con 
 ### Distribución e infraestructura
 
 No hay todavía una versión de producción, una API pública, una base de datos alojada ni una publicación en App Store o Google Play. El backend y PostgreSQL se utilizan en local.
+
+Se utilizará Supabase para alojar la BBDD en breves.
 
 ## Hoja de ruta propuesta
 
@@ -74,7 +76,7 @@ No hay todavía una versión de producción, una API pública, una base de datos
 - Los flujos acordados se completan de principio a fin desde la aplicación móvil.
 - La app se comunica con un backend accesible y autenticado.
 - El JWT se almacena de forma segura y la sesión se recupera correctamente.
-- Un usuario no puede consultar, modificar ni eliminar capturas pertenecientes a otro usuario.
+- Un usuario no puede consultar, modificar ni eliminar capturas pertenecientes a otro usuario (probado en Postman).
 - Los permisos de ADMIN están implementados y probados según las reglas definidas.
 - Los datos continúan disponibles después de reiniciar la app y los servicios.
 - Las imágenes permanecen disponibles y vinculadas a su captura.
