@@ -1,6 +1,6 @@
 # PescaLog
 
-> **Una app móvil para organizar y registrar la actividad de pesca.**
+> **Una app móvil para registrar y gestionar capturas de pesca, generar estadísticas, añadir y competir contra amigos.**
 
 PescaLog es un proyecto personal en desarrollo que explora cómo llevar la experiencia de pesca al móvil: reunir y gestionar la información de cada jornada, generar estadísticas, competir contra amigos y construir una base preparada para crecer.
 
@@ -75,10 +75,6 @@ El detalle y los siguientes pasos están en [Estado y hoja de ruta](docs/estado-
 <img width="240" height="520" alt="fotoapp4" src="https://github.com/user-attachments/assets/e57f053d-ae8b-4dfa-9287-a27dc171b991" />
 <img width="240" height="520" alt="fotoapp5" src="https://github.com/user-attachments/assets/292f89ee-7b9e-4d0e-8dc1-60eb0e6acfdf" />
 
-
-## Enlaces
-
-- [Repositorio de portfolio](https://github.com/alvarobp320/Pescalog-Portfolio)
 
 ---
 
